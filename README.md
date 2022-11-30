@@ -4,6 +4,7 @@ Tietoturvaseteliin sopivia palveluja tarjoavat monet suomalaiset tietoturvayrity
 
 * 2NS <https://www.2ns.fi/tietoturvaseteli/>
 * Advania <https://www.advania.fi/blogi/tietoturvaseteli>
+* Arctic Security <https://www.arcticsecurity.com/resources/finnish-government-provides-a-cybersecurity-voucher-to-help-sme-companies>
 * Badrap <https://badrap.io/tietoturvaseteli/>
 * Cinia <https://www.cinia.fi/ratkaisut/kyberturvallisuusratkaisut/tietoturvaseteli>
 * Cipherpunks <https://cipherpunks.fi/tietoturvaseteli/>

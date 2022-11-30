@@ -8,7 +8,7 @@ Tietoturvaseteliin sopivia palveluja tarjoavat monet suomalaiset tietoturvayrity
 * Cinia <https://www.cinia.fi/ratkaisut/kyberturvallisuusratkaisut/tietoturvaseteli>
 * Cipherpunks <https://cipherpunks.fi/tietoturvaseteli/>
 * Data Group <https://www.datagroup.fi/ajankohtaista/tietoturvaseteli-tulee-1122022-tukea-yritysten-tietoturvaan>
-* e-IT: <https://www.e-it.fi/tietoturvaseteli-yritysten-avuksi/>
+* e-IT <https://www.e-it.fi/tietoturvaseteli-yritysten-avuksi/>
 * Hoxhunt <https://www.hoxhunt.com/fi/tietoturvaseteli>
 * Insta <https://www.insta.fi/tietoturvaseteli>
 * JMJping <https://jmjping.fi/tietoturvaseteli/>

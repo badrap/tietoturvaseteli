@@ -10,8 +10,11 @@ Tietoturvaseteliin sopivia palveluja tarjoavat monet suomalaiset tietoturvayrity
 * Cipherpunks <https://cipherpunks.fi/tietoturvaseteli/>
 * Data Group <https://www.datagroup.fi/ajankohtaista/tietoturvaseteli-tulee-1122022-tukea-yritysten-tietoturvaan>
 * e-IT <https://www.e-it.fi/tietoturvaseteli-yritysten-avuksi/>
+* Elmo <https://www.elmo.fi/tietoturvaseteli/>
+* Herman IT <https://hermanit.fi/traficomin-tietoturvasetelit-haettavissa-1-12-2022-alkaen-hyodynna-tuki-hitin-kanssa/>
 * Hoxhunt <https://www.hoxhunt.com/fi/tietoturvaseteli>
 * Insta <https://www.insta.fi/tietoturvaseteli>
+* Integral <https://integral.fi/blogi/valtio-tukee-yritysten-tietoturvaa-tietoturvasetelilla/>
 * JMJping <https://jmjping.fi/tietoturvaseteli/>
 * Kaisanet <https://www.kaisanet.fi/tietoturvaseteli-tukee-yritysten-tietoturvaa/>
 * Kaita <https://kaita.fi/tietoturvaseteli/>
@@ -20,7 +23,9 @@ Tietoturvaseteliin sopivia palveluja tarjoavat monet suomalaiset tietoturvayrity
 * Netox <https://netox.fi/tietoturvaseteli/>
 * Netum <https://www.netum.fi/2022/11/23/tietoturvaseteli-organisaatiosi-kyberturvallisuusympariston-kehittamiseen/>
 * Nixu <https://www.nixu.com/node/2630>
+* Opsec <https://www.opsec.fi/fi/2022/11/23/tietoturvaseteli/>
 * Secapp <https://www.secapp.fi/fi/tietoturvaseteli-tukea-tietoturvan-kehittamiseen/>
+* Secure Cloud <https://securecloud.fi/tietoturvaseteli/>
 * Sulava <https://sulava.com/tietoturva/valtioneuvoston-tietoturvaseteli/>
 * SuomiCom <https://suomicom.fi/tietoturvaseteli/>
 * Telia Inmics Nebula <https://www.inmicsnebula.fi/fi/uutinen/tietoturvasetelista-apua-tietoturvan-kehittamiseen>

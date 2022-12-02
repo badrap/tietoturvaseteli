@@ -29,6 +29,7 @@ Tietoturvaseteliin sopivia palveluja tarjoavat monet suomalaiset tietoturvayrity
 * Sulava <https://sulava.com/tietoturva/valtioneuvoston-tietoturvaseteli/>
 * SuomiCom <https://suomicom.fi/tietoturvaseteli/>
 * Telia Inmics Nebula <https://www.inmicsnebula.fi/fi/uutinen/tietoturvasetelista-apua-tietoturvan-kehittamiseen>
+* Tieturi <https://www.tieturi.fi/blogi/tietoturvasetelilla-tukea-yritysten-tietoturvan-kehittamiseen/>
 * Turre Legal <https://www.turre.com/product/tietoturvajohtamisen-tyokalut-tietoturvasetelilla/>
 * TNNet <https://www.tnnet.fi/blogi/tietoturvaseteli-tuki-yritysten-tietoturvan-kehittamiseen/>
 * WithSecure <https://www.withsecure.com/fi/whats-new/pressroom/tietoturvaseteli>
